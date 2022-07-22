@@ -1,0 +1,16 @@
+{
+  "name": "mern-blog",
+  "version": "1.0.0",
+  "description": "Mern app learn fullstack development",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "keywords": [],
+  "author": "Shreyas Kinage",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.8.0"
+  }
+}

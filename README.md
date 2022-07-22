@@ -1,5 +1,8 @@
 # Mern-Blog
 
+Simple Blog Application that allows user to give comments to it.
+MERN stack used.
+
 ### to run frontend
 ```
 npm run client
@@ -8,7 +11,7 @@ npm run client
 ```
 npm run server
 ```
-### to run both conurrently
+### to run both concurrently
 ```
 npm run dev
 ```
